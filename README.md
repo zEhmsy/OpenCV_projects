@@ -23,7 +23,7 @@ All my project to train openCV library in python
 <br />
 <div align="center">
   <a href="https://github.com/zEhmsy/openCV_projects/images/logo">
-    <img src="images/logo_auto.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">OPENCV_project</h3>
@@ -243,4 +243,4 @@ Project Link: [https://github.com/zEhmsy/openCV_projects](https://github.com/zEh
 [license-url]: https://github.com/zEhmsy/openCV_projects/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/g-turturro
-[product-screenshot]: images/proj_info.png
+[product-screenshot]: images/proj_info.PNG
